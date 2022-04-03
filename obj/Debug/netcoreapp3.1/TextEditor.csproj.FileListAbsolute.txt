@@ -1,0 +1,13 @@
+C:\Balta_C#\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.exe
+C:\Balta_C#\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.deps.json
+C:\Balta_C#\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.json
+C:\Balta_C#\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.dev.json
+C:\Balta_C#\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.dll
+C:\Balta_C#\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.pdb
+C:\Balta_C#\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csprojAssemblyReference.cache
+C:\Balta_C#\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfoInputs.cache
+C:\Balta_C#\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfo.cs
+C:\Balta_C#\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csproj.CoreCompileInputs.cache
+C:\Balta_C#\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.dll
+C:\Balta_C#\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.pdb
+C:\Balta_C#\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.genruntimeconfig.cache
